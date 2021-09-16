@@ -1,0 +1,5 @@
+https://colorhunt.co/ - website for choosing good-looking colors.
+https://devdocs.io/ - used when you want to go over the documentations of most of types of programming languages.
+https://emojipedia.org/ - the website lists all of the emoji graphics from different operating systems.
+https://www.favicon.cc/ - the website where we can create a favicon.
+.ico extension - special extension format for icons
