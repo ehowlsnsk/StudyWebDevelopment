@@ -1,0 +1,20 @@
+FRONT-END DEVELOPMENT PRACTICE
+https://www.frontendmentor.io/solutions - the website for practicing and challenging front-end development.
+
+HTML
+https://colorhunt.co/ - website for choosing good-looking colors.
+https://devdocs.io/ - used when you want to go over the documentations of most of types of programming languages.
+https://emojipedia.org/ - the website lists all of the emoji graphics from different operating systems.
+https://www.favicon.cc/ - the website where we can create a favicon.
+.ico extension - special extension format for icons.
+https://crop-circle.imageonline.co/ - the website for editing images.
+
+CSS
+※ Web Safe Fonts
+ex) font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+https://www.cssfontstack.com/ - the website for picking up some Web Safe Fonts.
+※ font embedding
+https://fonts.google.com/ - the website for font-embedding.
+https://www.flaticon.com/ - the website for finding some images.
+https://giphy.com/ - the website for animated images.
+https://css3buttongenerator.com/ - the website for creating button.
