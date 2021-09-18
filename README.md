@@ -15,3 +15,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 [Section 3] Introduction to CSS
 - Inline, Internal, and External CSS
 - Anatomy of CSS Syntax(Selectors, Classes, and Ids)
+
+[Section 4] Intermediate CSS
+- Favicons
+- Box-modeling, Display property
+- CSS Static, Relative, and Absolute Positioning
+- Sizing, Float and Clear
