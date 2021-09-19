@@ -1,3 +1,6 @@
+Angela Yu github - the founder and CTO of Appbrewery.
+https://github.com/angelabauer?before=Y3Vyc29yOnYyOpK5MjAxNS0xMC0yM1QyMzoxNToyMCswOTowMM4Cq9wR&tab=repositories
+
 FRONT-END DEVELOPMENT PRACTICE
 https://www.frontendmentor.io/solutions - the website for practicing and challenging front-end development.
 
@@ -18,3 +21,9 @@ https://fonts.google.com/ - the website for font-embedding.
 https://www.flaticon.com/ - the website for finding some images.
 https://giphy.com/ - the website for animated images.
 https://css3buttongenerator.com/ - the website for creating button.
+
+Bootstrap
+https://dribbble.com/ - the portfolio website for web-designing
+https://sneakpeekit.com/ - the website with templates for wireframing where you can print out them
+https://balsamiq.cloud/ - the industry-standard website for wireframe
+https://www.codeply.com/ - Codeply is a fast, free online editor that includes dozens of frameworks, starter templates, and over 40,000 code snippets.
