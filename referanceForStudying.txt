@@ -4,6 +4,9 @@ https://github.com/angelabauer?before=Y3Vyc29yOnYyOpK5MjAxNS0xMC0yM1QyMzoxNToyMC
 FRONT-END DEVELOPMENT PRACTICE
 https://www.frontendmentor.io/solutions - the website for practicing and challenging front-end development.
 
+Online Editor
+https://codepen.io/
+
 HTML
 https://colorhunt.co/ - website for choosing good-looking colors.
 https://devdocs.io/ - used when you want to go over the documentations of most of types of programming languages.
@@ -27,3 +30,4 @@ https://dribbble.com/ - the portfolio website for web-designing
 https://sneakpeekit.com/ - the website with templates for wireframing where you can print out them
 https://balsamiq.cloud/ - the industry-standard website for wireframe
 https://www.codeply.com/ - Codeply is a fast, free online editor that includes dozens of frameworks, starter templates, and over 40,000 code snippets.
+https://fontawesome.com/ - The font website with a tons of icons.
