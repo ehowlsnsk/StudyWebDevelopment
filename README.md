@@ -5,19 +5,25 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 ## Contents
 https://www.appbrewery.co/p/web-development-course-resources
 
-[Section 1] Introduction to HTML
+[Section 2] Introduction to HTML
 - The Anatomy of an HTML Tag
 - HTML Lists, Image Elements, Links and Anchor Tags
 
-[Section 2] Intermediate HTML
+[Section 3] Intermediate HTML
 - Table Layouts, Forms
 
-[Section 3] Introduction to CSS
+[Section 4] Introduction to CSS
 - Inline, Internal, and External CSS
 - Anatomy of CSS Syntax(Selectors, Classes, and Ids)
 
-[Section 4] Intermediate CSS
+[Section 5] Intermediate CSS
 - Favicons
 - Box-modeling, Display property
 - CSS Static, Relative, and Absolute Positioning
 - Sizing, Float and Clear
+
+[Section 6] Introduction to Bootstrap
+- wireframing
+- Navigation Bar
+- Grid Layout System, Containers
+- Buttons & Font Awesome
