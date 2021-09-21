@@ -27,3 +27,6 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Navigation Bar
 - Grid Layout System, Containers
 - Buttons & Font Awesome
+
+[Section 7] Intermediate Bootstrap
+- Carousel
