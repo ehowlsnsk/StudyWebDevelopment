@@ -30,3 +30,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 [Section 7] Intermediate Bootstrap
 - Carousel
+- Cards
+- The CSS Z-index and Stacking border
+- Media Query Breakpoints
+- Advanced CSS - Combining Selectors, Selector Priority.
