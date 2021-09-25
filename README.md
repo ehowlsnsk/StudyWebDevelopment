@@ -34,3 +34,13 @@ https://www.appbrewery.co/p/web-development-course-resources
 - The CSS Z-index and Stacking border
 - Media Query Breakpoints
 - Advanced CSS - Combining Selectors, Selector Priority.
+
+[Section 8] Web Design School - Create a Website that Poeople Love
+- Color Theory
+- Typography and How to Choose a Font
+- User Interface(UI)
+- User Experience(UX) Design
+
+[Section 9] Introduction to Javascript ES6
+- Data Types and Variables, String
+- Function
