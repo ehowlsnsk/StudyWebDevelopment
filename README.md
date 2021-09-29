@@ -35,7 +35,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Media Query Breakpoints
 - Advanced CSS - Combining Selectors, Selector Priority.
 
-[Section 8] Web Design School - Create a Website that Poeople Love
+[Section 8] Web Design School - Create a Website that People Love
 - Color Theory
 - Typography and How to Choose a Font
 - User Interface(UI)
@@ -43,4 +43,20 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 [Section 9] Introduction to Javascript ES6
 - Data Types and Variables, String
+- Slicing and Extracting Parts of a String
 - Function
+
+[Section 10] Intermediate Javascript
+- Random Number
+- If-Else Conditionals & Logic, Comparators and Equality
+- Array, While-Loops, For Loops
+
+[Section 11] The Document Object Model(DOM)
+- Introduction of Document Object Model(DOM)
+- Selecting HTML Elements with Javascript
+- Manipulaing and Changing Styles of HTML Elements with Javascript
+- Text Manipulation and Text Content property
+- Manipulating HTML Element Attributes
+
+[Section 12] Boss Level Challenge 1 - The Dicee Game
+- Code the Dicee Game

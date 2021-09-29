@@ -10,6 +10,10 @@ https://codepen.io/
 Mobile-Friendly Test website
 https://search.google.com/test/mobile-friendly
 
+Useful Extensions in Chrom
+1. Toggle Pesticide - https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi
+2. HTML Tree Generator - https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg
+
 HTML
 https://colorhunt.co/ - website for choosing good-looking colors.
 https://devdocs.io/ - used when you want to go over the documentations of most of types of programming languages.
