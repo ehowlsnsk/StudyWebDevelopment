@@ -60,3 +60,13 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 [Section 12] Boss Level Challenge 1 - The Dicee Game
 - Code the Dicee Game
+
+[Section 13] Advanced Javascript and DOM Manipulation
+- Adding Event Listeners to a Button
+- Higher Order Functions and Passing Functions as Arguments
+- How to Play Sounds on a Website
+- Switch Statement in Javascript
+- Objects, their Methods and Dot Notation
+- Using Keyboard Event Listeners to Check for Key Presses
+- Callbacks and How to Respond to addEventListener
+- Adding Animation to Websites
