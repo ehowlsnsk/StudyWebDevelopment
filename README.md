@@ -70,3 +70,12 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Using Keyboard Event Listeners to Check for Key Presses
 - Callbacks and How to Respond to addEventListener
 - Adding Animation to Websites
+
+[Section 14] jQuery
+- Selecting Element with jQuery
+- Manipulating Styles, Text, Attributes with jQuery
+- Adding Event Listeners with jQuery
+- Adding and Removing Elements with jQuery
+- Website Animations with jQuery
+
+[Section 15] Boss Level Challenge 2 - The Simon Game

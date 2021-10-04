@@ -47,4 +47,7 @@ https://colorhunt.co/ - website for choosing good-looking colors.
 Javascript
 http://stanford.edu/~cpiech/karel/ide.html - the website for practicing basic programming in javascript made by Stanford university.
 
+jQuery
+https://www.minifier.org/ - Literally minify the source code of Javascript and CSS.
+
 .
