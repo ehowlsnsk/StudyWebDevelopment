@@ -50,4 +50,11 @@ http://stanford.edu/~cpiech/karel/ide.html - the website for practicing basic pr
 jQuery
 https://www.minifier.org/ - Literally minify the source code of Javascript and CSS.
 
-.
+Unix Command Line
+https://serverfault.com/ - the StackoverFlow-like website in the more 'sysadmin and network admins' side.
+https://www.learnenough.com/ - the website for practicing command line.
+
+
+Node.js
+https://nodejs.org/en/ - The website where you can download Node.js.
+https://www.npmjs.com/ - The website where you can download the external packages associated with node.js
