@@ -79,3 +79,24 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Website Animations with jQuery
 
 [Section 15] Boss Level Challenge 2 - The Simon Game
+
+[Section 16] The Unix Command Line
+- Understanding the Command Line. Long Live the Command Line!
+- Command Line Techniques and Directory Navigation
+- Creating, Opening, and Removing Files through the Command Line
+- Tip from Angela - Sleep is My Secret Weapon
+
+[Section 17] Backend Web development
+
+[Section 18] Node.js
+- The Power of the Command Line and How to Use Node
+- The Node REPL (Read Evaluation Print Loops)
+- How to Use the Native Node Modules
+- The NPM Package Manager and Installing External Node Modules
+
+[Section 19] Express.js with Node.js
+- Handling Requests and Responses: the GET Request
+- Nodemon Installation
+- Understanding and Working with Routes
+- Responding to Requests with HTML Files
+- Processing Post Requests with Body Parser

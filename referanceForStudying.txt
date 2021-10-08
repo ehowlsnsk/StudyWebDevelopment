@@ -58,3 +58,9 @@ https://www.learnenough.com/ - the website for practicing command line.
 Node.js
 https://nodejs.org/en/ - The website where you can download Node.js.
 https://www.npmjs.com/ - The website where you can download the external packages associated with node.js
+
+
+Express
+https://expressjs.com/ - the website where you can download Express
+https://stateofjs.com/ - the website for going over annual servey for Javascript programmers
+https://nodemon.io/ - the website where you can download 'nodemon' which is a utility that you can install using NPM that will monitor for changes in your source code, and it will also automatically restart your server when it detects any changes.
