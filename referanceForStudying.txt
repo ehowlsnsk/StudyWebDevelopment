@@ -1,6 +1,11 @@
 Angela Yu github - the founder and CTO of Appbrewery.
 https://github.com/angelabauer?before=Y3Vyc29yOnYyOpK5MjAxNS0xMC0yM1QyMzoxNToyMCswOTowMM4Cq9wR&tab=repositories
 
+Useful Extensions for Front-End developers
+1. HTML Tree Generator
+2. Toggle Pesticide
+3. JSON Viewer Pro
+
 FRONT-END DEVELOPMENT PRACTICE
 https://www.frontendmentor.io/solutions - the website for practicing and challenging front-end development.
 
@@ -64,3 +69,6 @@ Express
 https://expressjs.com/ - the website where you can download Express
 https://stateofjs.com/ - the website for going over annual servey for Javascript programmers
 https://nodemon.io/ - the website where you can download 'nodemon' which is a utility that you can install using NPM that will monitor for changes in your source code, and it will also automatically restart your server when it detects any changes.
+
+API
+https://www.postman.com/ - the website where you can try out APIs online.

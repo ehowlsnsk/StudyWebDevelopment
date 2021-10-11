@@ -100,3 +100,11 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Understanding and Working with Routes
 - Responding to Requests with HTML Files
 - Processing Post Requests with Body Parser
+
+[Section 20] APIs - Application Programming Interfaces
+- API Endpoints, Paths and Parameters
+- API Authentication and Postman
+- Making GET Requests with Node HTTPS Module
+- How to Parse JSON
+- Using Express to Render a Website with Live API Data
+- Using Body Parser to Parse POST Requests to the Server
