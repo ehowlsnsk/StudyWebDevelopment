@@ -72,3 +72,5 @@ https://nodemon.io/ - the website where you can download 'nodemon' which is a ut
 
 API
 https://www.postman.com/ - the website where you can try out APIs online.
+https://mailchimp.com/developer/ - the website for server.
+https://dashboard.heroku.com/ - the cloud service company for server.

@@ -108,3 +108,5 @@ https://www.appbrewery.co/p/web-development-course-resources
 - How to Parse JSON
 - Using Express to Render a Website with Live API Data
 - Using Body Parser to Parse POST Requests to the Server
+- Posting Data to Mailchimp's Servers via their APIs
+- Deploying Server with Heroku
